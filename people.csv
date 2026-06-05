@@ -1,0 +1,9 @@
+ID,Name,Department,Authority_Name,Authority_Email
+FAC001,Dr. Ahmed Yasin Khan,Developer,Dr. P. Suman Prakash (HOD),txaffankhan@gmail.com
+FAC002,Prof. Ramu,Big Data,Dr. P. Suman Prakash (HOD),txaffankhan@gmail.com
+FAC003,Prof. David Donald,Cloud Computing,Dr. P. Suman Prakash (HOD),txaffankhan@gmail.com
+FAC004,Prof. Mahendra,Technical Paper Writing,Dr. P. Suman Prakash (HOD),txaffankhan@gmail.com
+
+EMP001,Mr. Rajesh Kumar,Administration,Mr. Ahmed Yasin Khan(Manager),txaffankhan@gmail.com
+EMP002,Mrs. Priya Sharma,Human Resources,Mr. Ahmed Yasin Khan(Manager),txaffankhan@gmail.com
+EMP003,Mr. Anil Verma,IT Support,Mr. Ahmed Yasin Khan(Manager),txaffankhan@gmail.com
